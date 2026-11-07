@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.zip
+node_modules/
+.env
+credentials.json
+state.json
+*.log
+.hermes-tmp*
+# state files
+arsenal-framework/**/.farm-state/
+arsenal-framework/**/.phase-state/
+arsenal-framework/**/.farm-grain/
+arsenal-framework/**/grain/
+arsenal-framework/**/__pycache__/
+demo/
+# arsenal-skills state
+arsenal-skills/**/__pycache__/
+*.bak
